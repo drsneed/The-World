@@ -1,0 +1,9 @@
+﻿{
+  "AppSettings": {
+    "SiteEmailAddress": "dustin.sneeden@gmail.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDB2;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+
+}
